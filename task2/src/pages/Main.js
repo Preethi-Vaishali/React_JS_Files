@@ -10,7 +10,7 @@ function Main() {
         </div>
         <div className='Bottom'>
           <div className='Left'><Menu {...props}/></div>
-            <div className='Right'><Person token = {'backend'} age={29}/></div>
+            <div className='Right'><Person token = {'Backend'} age={29}/></div>
         </div>
       </div>
     );

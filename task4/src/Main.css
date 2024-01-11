@@ -1,0 +1,20 @@
+.Header{
+    width: 100%;
+    height: 100px;
+    background-color: #60ddff;
+}
+.headerBtnBack{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+
+.headerBtnBack p{
+    display: inline-block;
+    color: #ffffff;
+    background-color: #6b6ec0;
+    padding: 8px 20px;
+    margin-right: 10px;
+    font-size: 1.2em;
+    border-radius:0.3em;
+}
